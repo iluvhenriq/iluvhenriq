@@ -12,4 +12,4 @@
 ---
 
 ## 📈 GitHub Stats
-![iluvhenriq's GitHub stats](https://github-readme-stats.vercel.app/api?username=iluvhenriq&show_icons=true&theme=tokyonight)
+[iluvhenriq's GitHub stats](https://github-readme-stats.vercel.app/api?username=iluvhenriq&show_icons=true&theme=tokyonight)
