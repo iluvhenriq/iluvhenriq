@@ -1,7 +1,6 @@
 # Hi 👋, I'm Henrique
 
-🎓 High school student | Future Software Engineering student  
-💻 Self-taught developer, building real projects from scratch  
+Python & React developer. Building FinanceApp, a finance tracker that parses purchase emails automatically. Exploring automation and bots.
 🇧🇷 Brazil  
 
 ---
