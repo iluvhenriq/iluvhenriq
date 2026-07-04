@@ -1,9 +1,14 @@
 # Hi 👋, I'm Henrique
 
-Python & React developer. Building FinanceApp, a finance tracker that parses purchase emails automatically. Exploring automation and bots.
-🇧🇷 Brazil  
+Python & React developer based in Brazil.
 
----
+Currently building **FinanceApp**, a personal finance tracker that parses purchase confirmation emails and organizes spending data automatically.
 
-## 🛠️ Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Exploring automation, bots, and practical software solutions.
+
+## 🛠 Tech Stack
+- Python, FastAPI, SQLite
+- React, Vite, JavaScript
+
+## 📌 Main Project
+- [FinanceApp](https://github.com/iluvhenriq/FinanceApp) - Finance tracker that reads emails and extracts transactions automatically
